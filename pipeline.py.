@@ -1,1 +1,2 @@
-
+cd pipeline
+pip install uv
